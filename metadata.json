@@ -2,7 +2,7 @@
   "meta": {
     "build": {
       "build-date": "2026-09-09",
-      "codified-date": "2026-07-01",
+      "codified-date": "2026-07-06",
       "platform": {
         "reproducible": "true",
         "version": "2.22.2"
@@ -14,7 +14,7 @@
           "name": "maryland-dsd/law-xml"
         },
         {
-          "commit": "b61111f598dd51b3225495c01cec379bc5e48e00",
+          "commit": "d2566532a413d6bf0623e4e66113addf4d22d3af",
           "name": "maryland-dsd/law-xml-codified"
         }
       ],
